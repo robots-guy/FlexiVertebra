@@ -17,6 +17,9 @@ https://makerworld.com/en/models/2387411-flexivertebra-parametric-lizard-builder
 
 This platform allows users to modify parameters directly and generate new robot geometries without installing any software.
 
+<img width="1747" height="787" alt="Flexivertebra_customizer_tool" src="https://github.com/user-attachments/assets/e1c79f0d-b96c-4f65-abdc-d0c26b7eafce" />
+
+
 ---
 
 ## Key Features
@@ -46,9 +49,8 @@ FlexiVertebra introduces a lightweight parametric workflow that allows users to:
 
 This tool was developed as part of research on vertebrate-inspired soft robotic systems.
 
-If you use this tool in academic work, please cite the related publication.
-
-See the citation section below.
+Thanigaivel, N. K., Stalin, T., Kanhere, E., Raj, P. A., Hiramandala, G., & y Alvarado, P. V. (2025, April). Design and Fabrication Workflow for Vertebrate Soft Robots. In 2025 IEEE 8th International Conference on Soft Robotics (RoboSoft) (pp. 1-8). IEEE.
+https://ieeexplore.ieee.org/document/11020885
 
 ---
 
@@ -56,14 +58,26 @@ See the citation section below.
 
 If FlexiVertebra contributes to your research, please cite:
 
-Paper:
-Thanigaivel, N. K., Stalin, T., Kanhere, E., Raj, P. A., Hiramandala, G., & y Alvarado, P. V. (2025, April). Design and Fabrication Workflow for Vertebrate Soft Robots. In 2025 IEEE 8th International Conference on Soft Robotics (RoboSoft) (pp. 1-8). IEEE.
-https://ieeexplore.ieee.org/document/11020885
+```bibtex
+@inproceedings{thanigaivel2025design,
+  title={Design and Fabrication Workflow for Vertebrate Soft Robots},
+  author={Thanigaivel, Naresh Kumar and Stalin, Thileepan and Kanhere, Elgar and Raj, PM Aby and Hiramandala, Gumawang and y Alvarado, Pablo Valdivia},
+  booktitle={2025 IEEE 8th International Conference on Soft Robotics (RoboSoft)},
+  pages={1--8},
+  year={2025},
+  organization={IEEE}
+}
+```
 
-Tool:
-FlexiVertebra: Parametric Morphology Generator for Vertebrate Soft Robots  
-GitHub Repository
-
+Tool
+```bibtex
+@software{Naresh_FlexiVertebra,
+  title={FlexiVertebra: Parametric Morphology Generator for Vertebrate Soft Robots},
+  author={Naresh Kumar Thanigaivel},
+  year={2026},
+  url={https://github.com/robots-guy/FlexiVertebra}
+}
+```
 ---
 
 ## Author
@@ -80,6 +94,3 @@ This repository is released under the MIT License.
 
 ---
 
-## Acknowledgement
-
-This tool was developed as part of Naresh Kumar Thanigaivel's PhD research in bio-inspired soft robotic systems focusing on vertebrate-inspired robotic architectures and computational design workflows.
