@@ -3,44 +3,31 @@
 
 FlexiVertebra is a parametric design tool for generating customizable vertebrate-inspired robot morphologies.
 
-The tool allows rapid exploration of body configurations such as lizard-like robotic structures by adjusting a set of intuitive design parameters. It was developed to support research and teaching in soft robotics, where exploring morphology design spaces quickly is often challenging using traditional CAD workflows.
+The tool allows rapid exploration of body configurations of vertebrates such as Gecko-like, tortise-like, fish-like robotic structures by adjusting a set of intuitive design parameters. It was developed to support research, art and teaching in soft robotics, where exploring morphology design spaces quickly is often challenging or time-consuming using traditional CAD workflows. Instead of manually modeling each robot body plan, FlexiVertebra enables researchers and students to interactively generate robot geometries using a parameter-driven interface. The parametric design interface is available on MakerWorld:
 
-Instead of manually modeling each robot body plan, FlexiVertebra enables researchers and students to interactively generate robot geometries using a parameter-driven interface.
+https://makerworld.com/en/models/2387411-flexivertebra-parametric-lizard-builder
 
----
-
-## Interactive Tool
-
-The parametric design interface is available on MakerWorld:
-
-https://makerworld.com/en/models/2387411-flexivertebra-parametric-lizard-builder?from=search#profileId-2615049
-
-This platform allows users to modify parameters directly and generate new robot geometries without installing any software.
+This platform allows users to modify parameters directly and generate new robot geometries without installing any software or dependencies. 
 
 <img width="1747" height="787" alt="Flexivertebra_customizer_tool" src="https://github.com/user-attachments/assets/e1c79f0d-b96c-4f65-abdc-d0c26b7eafce" />
-
+<img width="1286" height="628" alt="Vetebrate soft robots customizable parameters" src="https://github.com/user-attachments/assets/5e2464bd-a5a7-45c2-9113-1755a00343c6" />
+<img width="1152" height="566" alt="tendon_parameters" src="https://github.com/user-attachments/assets/22aaa4db-7971-45f9-b932-1705ae593fd3" />
+<img width="1440" height="694" alt="Metrics_info_FlexiVertebra" src="https://github.com/user-attachments/assets/732be70b-fbd1-4c6f-b397-fd61218e9c48" />
 
 ---
 
 ## Key Features
 
-- Parametric generation of vertebrate-inspired robot morphologies
+- Parametric generation of vertebrate-inspired robot morphologies Head
+  - Articulated spine segments
+  - Articulated Tail segments
+  - Flexible joints (living flexures)
+  - Optional limbs
+  - Optional tendon routing channels
 - Rapid exploration of robot body configurations
 - Simple interface suitable for both researchers and students
 - Enables reproducible morphology generation
-- Designed for soft robotics research and education
-
----
-
-## Research Context
-
-Designing a nature inspired soft robotic systems often requires repeated iterations of morphology design. Traditional CAD workflows make this process slow and difficult to reproduce.
-
-FlexiVertebra introduces a lightweight parametric workflow that allows users to:
-
-- explore multiple morphology variations quickly
-- share reproducible design settings
-- generate geometry for rapid prototyping
+- Direct integration to Bambulab 3D Printers and its materials
 - support classroom teaching in soft robotics
 
 ---
@@ -83,7 +70,7 @@ Tool
 ## Author
 
 Naresh Kumar Thanigaivel  
-Bio-Inspired Robotics & Design Lab (BRD Lab) (https://brd.sutd.edu.sg/)
+Bio-Inspired Robotics & Design Lab (BRD Lab) (https://brd.sutd.edu.sg/)  
 Singapore University of Technology and Design (SUTD)
 
 ---
