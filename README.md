@@ -32,6 +32,11 @@ This platform allows users to modify parameters directly and generate new robot 
 
 ---
 
+## Repository Contents
+
+- `README` — Link to parametric generator in Makerworld
+- `3d-models/` — Example morphologies generated using the tool  
+
 ## Related Research
 
 This tool was developed as part of research on vertebrate-inspired soft robotic systems.
