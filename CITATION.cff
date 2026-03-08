@@ -1,12 +1,12 @@
 cff-version: 1.2.0
-title: "FlexiVertebra: Parametric Lizard Builder"
+title: "FlexiVertebra: Parametric Vertebrate Robot Builder"
 message: "If you use this tool in academic work, please cite this repository."
 type: software
 authors:
   - family-names: Thanigaivel
     given-names: Naresh Kumar
     affiliation: Singapore University of Technology and Design
-repository-code: https://github.com/YOURUSERNAME/flexivertebra
+repository-code: https://github.com/robots-guy/FlexiVertebra
 license: MIT
 version: 1.0.0
 date-released: 2026-03-07
